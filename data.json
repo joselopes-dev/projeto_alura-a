@@ -1,0 +1,1002 @@
+[
+  {
+    "nome": "Dipirona Sódica",
+    "descricao": "Uso comum de Dipirona Sódica: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a dipirona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Dipirona%20S%C3%B3dica"
+  },
+  {
+    "nome": "Paracetamol",
+    "descricao": "Uso comum de Paracetamol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a paracetamol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Paracetamol"
+  },
+  {
+    "nome": "Ibuprofeno",
+    "descricao": "Uso comum de Ibuprofeno: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a ibuprofeno conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Ibuprofeno"
+  },
+  {
+    "nome": "Amoxicilina",
+    "descricao": "Uso comum de Amoxicilina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a amoxicilina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Amoxicilina"
+  },
+  {
+    "nome": "Omeprazol",
+    "descricao": "Uso comum de Omeprazol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a omeprazol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Omeprazol"
+  },
+  {
+    "nome": "Losartana",
+    "descricao": "Uso comum de Losartana: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a losartana conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Losartana"
+  },
+  {
+    "nome": "Metformina",
+    "descricao": "Uso comum de Metformina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a metformina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Metformina"
+  },
+  {
+    "nome": "Cetirizina",
+    "descricao": "Uso comum de Cetirizina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a cetirizina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Cetirizina"
+  },
+  {
+    "nome": "Salbutamol",
+    "descricao": "Uso comum de Salbutamol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a salbutamol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Salbutamol"
+  },
+  {
+    "nome": "Prednisona",
+    "descricao": "Uso comum de Prednisona: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a prednisona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Prednisona"
+  },
+  {
+    "nome": "Enalapril",
+    "descricao": "Uso comum de Enalapril: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a enalapril conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Enalapril"
+  },
+  {
+    "nome": "Atenolol",
+    "descricao": "Uso comum de Atenolol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a atenolol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Atenolol"
+  },
+  {
+    "nome": "Simvastatina",
+    "descricao": "Uso comum de Simvastatina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a simvastatina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Simvastatina"
+  },
+  {
+    "nome": "Atorvastatina",
+    "descricao": "Uso comum de Atorvastatina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a atorvastatina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Atorvastatina"
+  },
+  {
+    "nome": "Levotiroxina",
+    "descricao": "Uso comum de Levotiroxina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a levotiroxina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Levotiroxina"
+  },
+  {
+    "nome": "Fluconazol",
+    "descricao": "Uso comum de Fluconazol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a fluconazol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Fluconazol"
+  },
+  {
+    "nome": "Azitromicina",
+    "descricao": "Uso comum de Azitromicina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a azitromicina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Azitromicina"
+  },
+  {
+    "nome": "Doxiciclina",
+    "descricao": "Uso comum de Doxiciclina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a doxiciclina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Doxiciclina"
+  },
+  {
+    "nome": "Ciprofloxacino",
+    "descricao": "Uso comum de Ciprofloxacino: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a ciprofloxacino conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Ciprofloxacino"
+  },
+  {
+    "nome": "Nitrofurantoína",
+    "descricao": "Uso comum de Nitrofurantoína: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a nitrofurantoína conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Nitrofuranto%C3%ADna"
+  },
+  {
+    "nome": "Hidroclorotiazida",
+    "descricao": "Uso comum de Hidroclorotiazida: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a hidroclorotiazida conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Hidroclorotiazida"
+  },
+  {
+    "nome": "Clopidogrel",
+    "descricao": "Uso comum de Clopidogrel: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a clopidogrel conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Clopidogrel"
+  },
+  {
+    "nome": "Varfarina",
+    "descricao": "Uso comum de Varfarina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a varfarina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Varfarina"
+  },
+  {
+    "nome": "Aspirina",
+    "descricao": "Uso comum de Aspirina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a aspirina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Aspirina"
+  },
+  {
+    "nome": "Alprazolam",
+    "descricao": "Uso comum de Alprazolam: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a alprazolam conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Alprazolam"
+  },
+  {
+    "nome": "Sertralina",
+    "descricao": "Uso comum de Sertralina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a sertralina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Sertralina"
+  },
+  {
+    "nome": "Escitalopram",
+    "descricao": "Uso comum de Escitalopram: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a escitalopram conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Escitalopram"
+  },
+  {
+    "nome": "Risperidona",
+    "descricao": "Uso comum de Risperidona: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a risperidona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Risperidona"
+  },
+  {
+    "nome": "Olanzapina",
+    "descricao": "Uso comum de Olanzapina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a olanzapina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Olanzapina"
+  },
+  {
+    "nome": "Metformina ER",
+    "descricao": "Uso comum de Metformina ER: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a metformina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Metformina%20ER"
+  },
+  {
+    "nome": "Insulina NPH",
+    "descricao": "Uso comum de Insulina NPH: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a insulina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Insulina%20NPH"
+  },
+  {
+    "nome": "Insulina Regular",
+    "descricao": "Uso comum de Insulina Regular: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a insulina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Insulina%20Regular"
+  },
+  {
+    "nome": "Glimepirida",
+    "descricao": "Uso comum de Glimepirida: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a glimepirida conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Glimepirida"
+  },
+  {
+    "nome": "Pioglitazona",
+    "descricao": "Uso comum de Pioglitazona: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a pioglitazona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Pioglitazona"
+  },
+  {
+    "nome": "Furosemida",
+    "descricao": "Uso comum de Furosemida: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a furosemida conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Furosemida"
+  },
+  {
+    "nome": "Espironolactona",
+    "descricao": "Uso comum de Espironolactona: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a espironolactona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Espironolactona"
+  },
+  {
+    "nome": "Omeprazol DR",
+    "descricao": "Uso comum de Omeprazol DR: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a omeprazol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Omeprazol%20DR"
+  },
+  {
+    "nome": "Ranitidina",
+    "descricao": "Uso comum de Ranitidina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a ranitidina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Ranitidina"
+  },
+  {
+    "nome": "Diclofenaco",
+    "descricao": "Uso comum de Diclofenaco: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a diclofenaco conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Diclofenaco"
+  },
+  {
+    "nome": "Nimesulida",
+    "descricao": "Uso comum de Nimesulida: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a nimesulida conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Nimesulida"
+  },
+  {
+    "nome": "Tramadol",
+    "descricao": "Uso comum de Tramadol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a tramadol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Tramadol"
+  },
+  {
+    "nome": "Codeína",
+    "descricao": "Uso comum de Codeína: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a codeína conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Code%C3%ADna"
+  },
+  {
+    "nome": "Claritromicina",
+    "descricao": "Uso comum de Claritromicina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a claritromicina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Claritromicina"
+  },
+  {
+    "nome": "Levofloxacino",
+    "descricao": "Uso comum de Levofloxacino: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a levofloxacino conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Levofloxacino"
+  },
+  {
+    "nome": "Vancomicina",
+    "descricao": "Uso comum de Vancomicina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a vancomicina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Vancomicina"
+  },
+  {
+    "nome": "Gentamicina",
+    "descricao": "Uso comum de Gentamicina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a gentamicina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Gentamicina"
+  },
+  {
+    "nome": "Heparina",
+    "descricao": "Uso comum de Heparina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a heparina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Heparina"
+  },
+  {
+    "nome": "Enoxaparina",
+    "descricao": "Uso comum de Enoxaparina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a enoxaparina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Enoxaparina"
+  },
+  {
+    "nome": "Captopril",
+    "descricao": "Uso comum de Captopril: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a captopril conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Captopril"
+  },
+  {
+    "nome": "Valsartana",
+    "descricao": "Uso comum de Valsartana: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a valsartana conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Valsartana"
+  },
+  {
+    "nome": "Simeticona",
+    "descricao": "Uso comum de Simeticona: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a simeticona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Simeticona"
+  },
+  {
+    "nome": "Colecalciferol",
+    "descricao": "Uso comum de Colecalciferol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a colecalciferol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Colecalciferol"
+  },
+  {
+    "nome": "Calcitriol",
+    "descricao": "Uso comum de Calcitriol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a calcitriol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Calcitriol"
+  },
+  {
+    "nome": "Ferrosulfato",
+    "descricao": "Uso comum de Ferrosulfato: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a ferrosulfato conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Ferrosulfato"
+  },
+  {
+    "nome": "Ácido Fólico",
+    "descricao": "Uso comum de Ácido Fólico: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a ácido conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=%C3%81cido%20F%C3%B3lico"
+  },
+  {
+    "nome": "Potássio Cloreto",
+    "descricao": "Uso comum de Potássio Cloreto: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a potássio conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Pot%C3%A1ssio%20Cloreto"
+  },
+  {
+    "nome": "Sulfato de Magnésio",
+    "descricao": "Uso comum de Sulfato de Magnésio: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a sulfato conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Sulfato%20de%20Magn%C3%A9sio"
+  },
+  {
+    "nome": "Prednisolona",
+    "descricao": "Uso comum de Prednisolona: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a prednisolona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Prednisolona"
+  },
+  {
+    "nome": "Betametasona",
+    "descricao": "Uso comum de Betametasona: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a betametasona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Betametasona"
+  },
+  {
+    "nome": "Metilprednisolona",
+    "descricao": "Uso comum de Metilprednisolona: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a metilprednisolona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Metilprednisolona"
+  },
+  {
+    "nome": "Losartana + Hidroclorotiazida",
+    "descricao": "Uso comum de Losartana + Hidroclorotiazida: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a losartana conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Losartana%20%2B%20Hidroclorotiazida"
+  },
+  {
+    "nome": "Amoxicilina + Clavulanato",
+    "descricao": "Uso comum de Amoxicilina + Clavulanato: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a amoxicilina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Amoxicilina%20%2B%20Clavulanato"
+  },
+  {
+    "nome": "Naproxeno",
+    "descricao": "Uso comum de Naproxeno: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a naproxeno conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Naproxeno"
+  },
+  {
+    "nome": "Lorazepam",
+    "descricao": "Uso comum de Lorazepam: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a lorazepam conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Lorazepam"
+  },
+  {
+    "nome": "Diazepam",
+    "descricao": "Uso comum de Diazepam: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a diazepam conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Diazepam"
+  },
+  {
+    "nome": "Fluoxetina",
+    "descricao": "Uso comum de Fluoxetina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a fluoxetina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Fluoxetina"
+  },
+  {
+    "nome": "Bupropiona",
+    "descricao": "Uso comum de Bupropiona: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a bupropiona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Bupropiona"
+  },
+  {
+    "nome": "Clonidina",
+    "descricao": "Uso comum de Clonidina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a clonidina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Clonidina"
+  },
+  {
+    "nome": "Metronidazol",
+    "descricao": "Uso comum de Metronidazol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a metronidazol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Metronidazol"
+  },
+  {
+    "nome": "Albendazol",
+    "descricao": "Uso comum de Albendazol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a albendazol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Albendazol"
+  },
+  {
+    "nome": "Ivermectina",
+    "descricao": "Uso comum de Ivermectina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a ivermectina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Ivermectina"
+  },
+  {
+    "nome": "Cetoconazol",
+    "descricao": "Uso comum de Cetoconazol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a cetoconazol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Cetoconazol"
+  },
+  {
+    "nome": "Mometasona (inalador)",
+    "descricao": "Uso comum de Mometasona (inalador): indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a mometasona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Mometasona%20%28inalador%29"
+  },
+  {
+    "nome": "Budesonida (inalador)",
+    "descricao": "Uso comum de Budesonida (inalador): indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a budesonida conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Budesonida%20%28inalador%29"
+  },
+  {
+    "nome": "Salbutamol (spray)",
+    "descricao": "Uso comum de Salbutamol (spray): indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a salbutamol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Salbutamol%20%28spray%29"
+  },
+  {
+    "nome": "Tiotrópio",
+    "descricao": "Uso comum de Tiotrópio: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a tiotrópio conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Tiotr%C3%B3pio"
+  },
+  {
+    "nome": "Montelucaste",
+    "descricao": "Uso comum de Montelucaste: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a montelucaste conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Montelucaste"
+  },
+  {
+    "nome": "Albuterol (nebulizador)",
+    "descricao": "Uso comum de Albuterol (nebulizador): indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a albuterol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Albuterol%20%28nebulizador%29"
+  },
+  {
+    "nome": "Oxacilina",
+    "descricao": "Uso comum de Oxacilina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a oxacilina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Oxacilina"
+  },
+  {
+    "nome": "Cefalexina",
+    "descricao": "Uso comum de Cefalexina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a cefalexina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Cefalexina"
+  },
+  {
+    "nome": "Ceftriaxona",
+    "descricao": "Uso comum de Ceftriaxona: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a ceftriaxona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Ceftriaxona"
+  },
+  {
+    "nome": "Clindamicina",
+    "descricao": "Uso comum de Clindamicina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a clindamicina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Clindamicina"
+  },
+  {
+    "nome": "Linezolida",
+    "descricao": "Uso comum de Linezolida: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a linezolida conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Linezolida"
+  },
+  {
+    "nome": "Meropenem",
+    "descricao": "Uso comum de Meropenem: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a meropenem conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Meropenem"
+  },
+  {
+    "nome": "Imipenem",
+    "descricao": "Uso comum de Imipenem: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a imipenem conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Imipenem"
+  },
+  {
+    "nome": "Etoricoxibe",
+    "descricao": "Uso comum de Etoricoxibe: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a etoricoxibe conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Etoricoxibe"
+  },
+  {
+    "nome": "Pregabalina",
+    "descricao": "Uso comum de Pregabalina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a pregabalina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Pregabalina"
+  },
+  {
+    "nome": "Gabapentina",
+    "descricao": "Uso comum de Gabapentina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a gabapentina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Gabapentina"
+  },
+  {
+    "nome": "Loratadina",
+    "descricao": "Uso comum de Loratadina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a loratadina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Loratadina"
+  },
+  {
+    "nome": "Prometazina",
+    "descricao": "Uso comum de Prometazina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a prometazina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Prometazina"
+  },
+  {
+    "nome": "Omeprazol 20mg",
+    "descricao": "Uso comum de Omeprazol 20mg: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a omeprazol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Omeprazol%2020mg"
+  },
+  {
+    "nome": "Pantoprazol",
+    "descricao": "Uso comum de Pantoprazol: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a pantoprazol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Pantoprazol"
+  },
+  {
+    "nome": "Magaldrato",
+    "descricao": "Uso comum de Magaldrato: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a magaldrato conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Magaldrato"
+  },
+  {
+    "nome": "Clobetasol (pomada)",
+    "descricao": "Uso comum de Clobetasol (pomada): indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a clobetasol conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Clobetasol%20%28pomada%29"
+  },
+  {
+    "nome": "Hidrocortisona (pomada)",
+    "descricao": "Uso comum de Hidrocortisona (pomada): indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a hidrocortisona conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Hidrocortisona%20%28pomada%29"
+  },
+  {
+    "nome": "Permetrina",
+    "descricao": "Uso comum de Permetrina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a permetrina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Permetrina"
+  },
+  {
+    "nome": "Nicardipina",
+    "descricao": "Uso comum de Nicardipina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a nicardipina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Nicardipina"
+  },
+  {
+    "nome": "Nifedipina",
+    "descricao": "Uso comum de Nifedipina: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a nifedipina conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Nifedipina"
+  },
+  {
+    "nome": "Diltiazem",
+    "descricao": "Uso comum de Diltiazem: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a diltiazem conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Diltiazem"
+  },
+  {
+    "nome": "Verapamil",
+    "descricao": "Uso comum de Verapamil: indicação farmacológica resumida.",
+    "para_que_serve": "Indicado para tratar condições relacionadas a verapamil conforme prescrição médica.",
+    "orientacoes_de_uso": "Usar conforme orientação médica; observar dosagem, horários e duração do tratamento.",
+    "contraindicacoes": "Hipersensibilidade ao princípio ativo; consultar médico em caso de gravidez, lactação ou doenças crônicas.",
+    "efeitos_colaterais": "Efeitos adversos comuns incluem náusea, dor de cabeça e reações gastrointestinais; procurar atendimento se graves.",
+    "bula": "Bulário resumido disponível no portal da Anvisa.",
+    "link_bula_pdf": "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=Verapamil"
+  }
+]
